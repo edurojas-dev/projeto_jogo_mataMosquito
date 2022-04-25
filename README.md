@@ -1,2 +1,1 @@
-# 09_projeto_jogo_mataMosquito
- Projeto de estudo - Mata Mosquito
+# projeto_jogo_mataMosquito
